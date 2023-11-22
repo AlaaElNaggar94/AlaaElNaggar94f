@@ -1,6 +1,6 @@
 # UI
 ![alt text](./images/top.svg)
-
+![logo](https://www.oberlo.com/media/1603969791-image-1.jpg) 
 I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
 <!--
